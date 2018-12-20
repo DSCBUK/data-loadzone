@@ -11,6 +11,7 @@ This is a collection of resources, example functions, and kernels for data scien
 - An R installation : (Anaconda Distribution is our recommended means of simultaneaously fulfilling the above two requirements)
 - A code editor (Visual Studio Code comes recommended, although there are other options like Atom, Sublime Text, Vim, Spyder, Eric, et cetera)
 - An installation of RStudio (comes included with Anaconda)
+**Check out the [Getting Started Instructions](./Getting Started: First Steps/Getting Started - First Steps.ipynb)**
 
 ## Contributions
 - Fork this repo
