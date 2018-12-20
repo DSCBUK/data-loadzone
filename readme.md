@@ -1,6 +1,6 @@
 # Instructions
 
-To get started, go through this [./readme.md](README)
+To get started, go through this [README](./readme.md)
 
 This is a collection of resources, example functions, and kernels for data science and analytics learning, made for the Developer Students Club Bayero University Kano (DSC BUK). Feel free to comment, fork, PR, and otherwise support the growth of this project, thank you.
 
@@ -14,7 +14,7 @@ This is a collection of resources, example functions, and kernels for data scien
 
 ## Contributions
 - Fork this repo
-- Make your changes in your Fork
+- Make your changes in your fork
 - Make a Pull Request to this repo
 
 ## Support?
