@@ -12,7 +12,7 @@ This is a collection of resources, example functions, and kernels for data scien
 - A code editor (Visual Studio Code comes recommended, although there are other options like Atom, Sublime Text, Vim, Spyder, Eric, et cetera)
 - An installation of RStudio (comes included with Anaconda)
 
-**Check out the [Getting Started Instructions](https://github.com/MesyMacos/data-loadzone/blob/master/Getting%20Started:%20First%20Steps/Getting%20Started%20-%20First%20Steps.ipynb?short_path=beea3a3)**
+**Check out the [Getting Started Instructions](https://github.com/DSCBUK/data-loadzone/blob/master/Getting%20Started%20-%20First%20Steps/Getting%20Started%20-%20First%20Steps.md)**
 
 ## Contributions
 - Fork this repo
